@@ -1,0 +1,44 @@
+prompt 1
+Bir ön-yüz geliştiricisi gibi web sitesi kodlayacaksınız.Web sitesinin ön yüzünü HTML,CSS ,Bootstrap ve Javascript teknolojilerini  kullanacaksın.Web sitesinin tasarımı mobil ve tablet cihazlarına uyumlu olmalıdır.Html,CSS veJavascript kodlarını ayrı çıktılar olarak vermelisin.Her şeyi anlıyor musun?Yazdığım gereklilikleri anlıyorsanız evet veya hayır şeklinde cevaplayın.
+
+prompt 2
+Portfolio galeri web sitesi oluşturmak istiyorum ve bu web sitesinde gezi önerileri paylaşılacak.HTML'de semantik elementler kullanmalısın bunlar:<header>, <main>,<nav>, <section>, <article>,<aside> , <footer> gibi elementler bulunmalı.Header bölümü en üstte olmalı ve koyu mavi renkte olmalı.Header bölümünde sadece logo yer alacak.<nav> etiketinde gezinme bağlantıları yer almasını istiyorum .<nav> bölümü Header bölümünün hemen altında yer almalı ve daha açık mavi renkte olmalı.main bölümü beyaz renkte olmalı.Sayfanın içeriği galeri görümünde olmasını istiyorum.Her bir ızgarada 3 adet resimler yer almasını istiyorum bu resimler 300x300 boyutlarında yer almalı. Bana bu web sitesini oluşturmada yardımcı olur musun?
+
+prompt 3
+Logo  kısmında yazı değil bir fotoğraf olmalı. Galeri içeriği her bir ızgarada 3 adet resimler yer almasını istiyorum bu resimler 300x300 boyutlarında yer almalı.
+
+prompt 4
+Galeri bölümünde  toplam 4 satırdan oluşmalı ve her bir satırda 3 adet resim olsun ve her resmin altında <h1> etiketi yer almalı.Her resimler bir çerçeve içersinde yer almalı.Bu çerçeveler 1 px kalınlığında ve siyah renkte olmasına yardımcı olur musun?
+
+prompt 5
+section etiketinin içerisinde  toplam 4 satırdan oluşmalı ve her bir satırda 3 adet resim olsun ve her resmin altında <h1> etiketi yer almalı.Her resimler bir çerçeve içersinde yer almalı.Bu çerçeveler 1 px kalınlığında ve siyah renkte olmasına yardımcı olur musun?
+
+prompt 6
+3 adet resim daha ekleyebilir misin?
+
+prompt 7
+Başlık 1 den başlayıp Başlık 6 ya kadar ki olan h1 etiketlerini şunlarla değiştirir misin? Roma,Tokyo,New York,Eyfel kulesi,Meksika,İspanya
+
+
+Görsel oluşturma
+
+prompt 1 
+siyah ve beyaz renklerden oluşan şehir logosu
+
+prompt 2
+New York şehrinin şimdiki ve gelecekte ki resmi
+
+prompt 3  
+Roma şehrinin şimdiki hali ve eski zamanlarda Romada yaşayan insanların olduğu resim
+
+prompt 4
+Tokyoda insanların robotlarla beraber yaşadığı bir resim
+
+prompt 5
+Eyfel Kulesinin altında sadece hayvanların gezdiği resim
+
+prompt 6
+İspanyada ki gotik sokakların resimi
+
+prompt 7
+Meksika'da gezen herkesin elinde tako yedikleri bir görsel
